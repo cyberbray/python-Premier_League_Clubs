@@ -1,5 +1,5 @@
 
-Scrape BBC Football website for today's World Cup Football fixtures (including results)
+Scrape Wikipedia for Premier League clubs
 
 Day 1
 Mess around
