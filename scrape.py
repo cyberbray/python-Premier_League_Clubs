@@ -5,17 +5,8 @@ import urllib
 wiki="https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League"
 
 from bs4 import BeautifulSoup
-soup = BeautifulSoup(wiki, 'html.parser')
-
-
-
-
-
-
-
-
-
-
+with open('wiki') as page:
+    soup = BeautifulSoup('<html>data</html>')
 
 
 
