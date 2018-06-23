@@ -1,3 +1,5 @@
+# Describe: Open Firefox and seach for "football" using Google search engine
+
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait # available since 2.4.0

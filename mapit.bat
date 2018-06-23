@@ -1,0 +1,1 @@
+@python.exe R:\Python\python-Premier_League_Clubs\mapit.py %*
